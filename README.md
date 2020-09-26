@@ -1,4 +1,4 @@
-## Hi I'm JheysoonDev 👋🤙
+## Hi I'm JheysonDev 👋🤙
 
 Welcome to my profile, I am a web developer and student of life passionate about open source and linux.
 
