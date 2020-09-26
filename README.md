@@ -3,8 +3,12 @@
 Welcome to my profile, I am a web developer and student of life passionate about open source and linux.
 
 <p align="center" width="100%">
+  <a href="https://twitter.com/JheysonDev">
   <img src="https://img.shields.io/twitter/follow/jheysondev?style=flat-square&label=Twitter%20Followers" alt="Twitter Follow"/>
+  </a>
+  <a href="https://github.com/JheysonDev">
   <img src="https://img.shields.io/github/followers/jheysondev?style=flat-square&label=Github%20Followers" alt="GitHub followers"/>
+   </a>
 </p>
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=JheysonDev&show_icons=true&theme=react" width="400">
